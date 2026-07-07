@@ -2,7 +2,9 @@
 
 Replication of *"Predicting Hospital Readmission via the CONTENT Model"* — a neural architecture that combines unsupervised topic modeling over clinical codes with a supervised neural readmission predictor.
 
-**[View Report](Replication%20of%20Paper%20Proposing%20the%20CONTENT%20Readmission%20Prediction%20Model.docx)** · Part of [DL4Health](https://github.com/mohassan99/DL4Health) · CS 598 Final Project, UIUC MCS-DS
+**[View Report](https://drive.google.com/file/d/1hX2QyVxhvNhv2a6NBBokdmYuMqLfozzb/view?usp=drivesdk)** · Part of [DL4Health](https://github.com/mohassan99/DL4Health) · CS 598 Final Project, UIUC MCS-DS
+
+Co-authored with Ashwani Singh.
 
 ---
 
