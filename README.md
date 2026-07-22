@@ -2,7 +2,7 @@
 
 Replication of *"Predicting Hospital Readmission via the CONTENT Model"* — a neural architecture that combines unsupervised topic modeling over clinical codes with a supervised neural readmission predictor.
 
-**[View Report](https://drive.google.com/file/d/1hX2QyVxhvNhv2a6NBBokdmYuMqLfozzb/view?usp=drivesdk)** · Part of [DL4Health](https://github.com/mohassan99/DL4Health) · CS 598 Final Project, UIUC MCS-DS
+**[View Report](https://drive.google.com/file/d/1hX2QyVxhvNhv2a6NBBokdmYuMqLfozzb/view?usp=drivesdk)** · Part of the [DL4Health](https://github.com/mohassan99/DL4Health) project series.
 
 Co-authored with Ashwani Singh.
 
@@ -47,6 +47,3 @@ This is the most architecturally advanced project in this portfolio — it combi
 
 ## Skills demonstrated
 `PyTorch` · `Topic Modeling` · `Unsupervised Pretraining` · `Representation Learning` · `Readmission Prediction` · `EHR Data` · `ICD Coding` · `Feature Engineering` · `Clinical NLP concepts` · `Paper Replication` · `Model Validation`
-
-## Course
-CS 598 — Deep Learning for Healthcare · University of Illinois Urbana-Champaign · MCS-DS (School of Engineering) · Final Project
